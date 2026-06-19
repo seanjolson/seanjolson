@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm Sean! :wave:
+
+### :potted_plant: About Me:
+
+### :computer: What I'm Working On:
+
+### :school: What I'm Learning:
+
+### :mailbox: Contact Me:
+:email: seanjacobolson@gmail.com
+<!-- Add LinkedIn contact -->
 
 ### :fireworks: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=seanjolson&theme=dark&background=000000)](https://git.io/streak-stats)
